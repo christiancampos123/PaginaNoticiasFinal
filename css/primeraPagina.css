@@ -1,0 +1,321 @@
+
+body,html{
+	margin:0;
+	padding:0;
+	
+}
+
+body{
+	background-image:url("../img/fondo2.jpg");
+	background-repeat:no-repeat;
+    background-size: cover;
+	background-attachment:fixed;
+}
+
+#publicidad{
+	width:300px;
+	height:600px;
+	overflow:hidden;
+	border:0;
+}
+
+#video1{
+	display:block;
+	margin:0 auto;
+	max-height:100%;
+	max-width:100%;
+}
+
+#publi2{
+	display:none;
+}
+
+.row{
+	margin-right: 0px;
+}
+
+.noticiaC{
+	margin-top:1%;
+	background-color:black;
+	font-size:70%;
+	color:white;
+}
+
+.basta{
+	color:white;
+	text-decoration:none;
+}
+
+
+.jumbotron{
+	margin-top:4%;
+	height:220px;
+	background-image:url("../img/banner.jpg");
+	background-repeat:no-repeat;
+    background-size: cover;
+	
+}
+
+#bannerfoto{
+	
+	height:100%;
+	width:100%;
+}
+
+#iconoH{
+	font-size:100%;
+}
+
+.well{
+	color:black;
+}
+
+
+
+
+.col-sm-9{
+	text-decoration:none;
+	font-size:130%;
+	color:white;
+	
+}
+
+.fecha{
+	
+	background-color:black;
+	margin-right:10%;
+	margin-bottom:0;
+	text-align:right;
+	color:white;
+	
+}
+
+#inutil{
+	position:relative;
+	background-color:blue;
+	font-size:290%;
+	height:20%;
+	width:70%;
+}
+
+.foto{
+	position:relative;
+	background-color:red;
+	height:10%;
+	width:10%;
+}
+
+#titulo{
+	margin-bottom:4%;
+	
+}
+
+#elGrande{
+	width: calc(100% - 336px);
+	float:left;
+	margin-left:10px;
+	margin-top:8%;
+	background-color:black;
+	border-radius:15px;
+	border-width:4px;
+	border-color:red;
+	border-style:solid;
+	text-align:center;
+	color:white;
+}
+
+#contenido{
+	margin-left:2%;
+	margin-right:4%;
+	font-size:130%;
+	margin-top:5%;
+	color:white;
+}
+
+
+#fotoa,#fotob{
+	position:relative;
+	height:200%;
+}
+
+#publi{
+	position:relative;
+	width:300px;
+	height:600px;
+	background-color:red;
+	float:right;
+	margin-top:20%;
+	margin-right:5px;
+}
+
+.row-sm-4{
+	
+	margin-top:-2%;
+	width:100%;
+	background-color:black;
+}
+
+.container-fluid{
+	width:100%;
+	margin-left:5%;
+}
+
+@media only screen and (max-width: 900px) {
+	
+	
+body,html{
+	margin:0;
+	padding:0;
+	
+}
+
+body{
+	background-image:url("../img/fondo2.jpg");
+	background-repeat:no-repeat;
+    background-size: cover;
+	background-attachment:fixed;
+}
+
+.row{
+	margin-right: 0px;
+}
+
+.noticiaC{
+	margin-top:1%;
+	background-color:black;
+	font-size:70%;
+	color:white;
+}
+
+.basta{
+	color:white;
+	text-decoration:none;
+}
+
+.jumbotron{
+	margin-top:4%;
+	height:220px;
+	background-image:url("../img/banner.jpg");
+	background-repeat:no-repeat;
+    background-size: cover;
+	
+}
+
+#bannerfoto{
+	
+	height:100%;
+	width:100%;
+}
+
+#iconoH{
+	font-size:100%;
+}
+
+.well{
+	color:black;
+}
+
+
+
+.col-sm-9{
+	text-decoration:none;
+	font-size:130%;
+	color:white;
+	
+}
+
+
+
+.fecha{
+	
+	background-color:black;
+	margin-right:10%;
+	margin-bottom:0;
+	text-align:right;
+	color:white;
+	
+}
+
+#inutil{
+	position:relative;
+	background-color:blue;
+	font-size:290%;
+	height:20%;
+	width:70%;
+}
+
+.foto{
+	position:relative;
+	background-color:red;
+	height:10%;
+	width:10%;
+}
+
+#titulo{
+	margin-bottom:4%;
+	
+}
+
+#elGrande{
+	width: 95%;
+	float:left;
+	margin-left:2%;
+	margin-top:8%;
+	background-color:black;
+	border-radius:15px;
+	border-width:3px;
+	border-color:white;
+	border-style:solid;
+	text-align:center;
+	color:white;
+}
+
+#contenido{
+	margin-left:2%;
+	margin-right:4%;
+	font-size:130%;
+	margin-top:5%;
+	color:white;
+}
+
+
+#fotoa,#fotob{
+	position:relative;
+	height:200%;
+}
+
+#publi2{
+	display:block;
+	margin:0 auto;
+
+	margin-top:20%;
+}
+
+#publicidad2{
+	display:block;
+	height:95px;
+	margin: 0 auto;
+	
+}
+.navbar-toggle{
+    margin-right: 30px;
+}
+
+#publi{
+	display:none;
+}
+
+#publicidad{
+	display:none;
+}
+
+.row-sm-4{	
+	margin-top:-2%;
+	width:100%;
+	background-color:black;
+}
+
+
+}
+
+

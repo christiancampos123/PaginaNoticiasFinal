@@ -1,0 +1,351 @@
+
+body,html{
+	margin:0;
+	padding:0;
+	
+}
+
+body,html,.jumbotron{
+	background-image:url("../img/fondo2.jpg");
+	background-repeat:no-repeat;
+    background-size: cover;
+	background-attachment:fixed;
+	margin:0;
+	padding:0;
+}
+
+h2{
+	font-size:140%;
+}
+
+.modal-body{
+	margin-left:20%;
+	padding:0;
+}
+
+.row{
+	margin-right: 0px;
+}
+
+
+#cargando{
+	display:none;
+	width:300px;
+	margin-bottom:20px;
+}
+
+#botoncarg{
+	background-color:black;
+	font-size:200%;
+	color:white;
+	margin-bottom:5%;
+}
+
+#botn{
+	height:35%;
+	width:35%;
+}
+
+#no{
+	font-size:200%;
+	margin-top:0px;
+	color:red;
+	display:block;
+}
+
+#si{
+	display:none;
+	font-size:200%;
+	margin-top:0px;
+	color:green;
+
+} 
+
+#algomas{
+	margin-top:10px;
+	margin-left:15px;
+}
+
+.auto{
+	margin-top:10px;
+}
+
+#publicidad{
+	width:300px;
+	height:600px;
+	overflow:hidden;
+	border:0;
+}
+
+#publi2{
+	display:none;
+}
+
+.noticiaC{
+	margin-top:1%;
+	background-color:black;
+	font-size:70%;
+	color:white;
+}
+
+.basta{
+	color:white;
+	text-decoration:none;
+}
+
+
+.jumbotronimg{
+	display:block;
+	margin:0 auto;
+	
+}
+
+#bannerfoto{
+	
+	height:100%;
+	width:100%;
+}
+
+.well{
+	color:black;
+}
+
+
+.col-sm-9{
+	text-decoration:none;
+	font-size:130%;
+	color:white;
+	text-align:justify;
+	
+}
+
+.fecha{
+	
+	background-color:black;
+	margin-right:10%;
+	margin-bottom:0;
+	text-align:right;
+	color:white;
+	
+}
+
+#inutil{
+	position:relative;
+	background-color:blue;
+	font-size:290%;
+	height:20%;
+	width:70%;
+}
+
+.foto{
+	position:relative;
+	background-color:red;
+	height:100%;
+	width:100%;
+}
+
+#elGrande{
+	width: calc(100% - 336px);
+	float:left;
+	margin-top:5%;
+	
+}
+
+
+#fotoa,#fotob{
+	position:relative;
+	height:200%;
+}
+
+#publi{
+	position:relative;
+	width:300px;
+	height:600px;
+	background-color:red;
+	float:right;
+	margin-top:20%;
+	margin-right:5px;
+}
+
+.row-sm-4{
+	
+	margin-bottom:2%;
+	background-color:black;
+}
+
+.container-fluid{
+	width:100%;
+	margin-left:20px;
+}
+
+.nounderline{
+	text-decoration:none;
+	color:black;
+	font-weight:bold;
+}
+
+@media only screen and (max-width: 900px) {
+	
+	
+body,html{
+	background-image:url("../img/fondo2.jpg");
+	background-repeat:no-repeat;
+    background-size: cover;
+	background-attachment:fixed;
+}
+
+
+
+
+.jumbotron{
+	display:none;
+}
+
+
+.well{
+	display:block;
+	margin-top:0;
+	color:white;
+	background-color:black;
+	font-size:100%;
+	font-weight:bold;
+	width:100%;
+}
+
+
+.nounderline{
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+}
+
+#inutil{
+	position:relative;
+	background-color:blue;
+	font-size:290%;
+	height:20%;
+	width:70%;
+}
+
+.col-sm-3{
+	display:block;
+}
+
+#noticias{
+	
+	width:100%;
+	font-size:100%;
+}
+
+.foto{
+	display:block;
+	position:relative;
+	background-color:red;
+	height:50%;
+	width:50%;
+	margin:0 auto;
+	margin-bottom:15px;
+	}
+
+#elGrande{
+	width: 90%;
+	float:left;
+	margin-top:10%;
+	color:white;
+}
+
+
+#fotoa,#fotob{
+	position:relative;
+	height:100%;
+}
+
+#publi2{
+	display:block;
+	margin:0 auto;
+
+	margin-top:20%;
+}
+
+#publicidad2{
+	display:block;
+	height:95px;
+	margin: 0 auto;
+	
+}
+
+
+#publi{
+	display:none;
+}
+
+#publicidad{
+	display:none;
+}
+
+.noticiaC{
+	margin-top:1%;
+	background-color:black;
+	font-size:70%;
+	color:white;
+}
+
+.fecha{
+	
+	background-color:black;
+	margin-right:10%;
+	margin-bottom:0;
+	text-align:right;
+	color:white;
+	
+}
+
+.navbar-toggle{
+	margin-right: 45px;
+}
+
+
+.row-sm-4{
+	
+	margin-bottom:4%;
+	background-color:black;
+}
+
+.container-fluid{
+	width:100%;
+	margin-left:5%;
+	padding-right: 0px;
+}
+
+h2{
+	font-size:110%;
+}
+
+.modal-header{
+	display:none;
+}
+.modal-body{
+	background-color:black;
+	margin:0;
+	padding:0;
+}
+.modal-footer{
+	display:none;
+}
+
+
+#botoncarg{
+	background-color:black;
+	font-size:200%;
+	color:white;
+	margin-bottom:80px;
+}
+
+
+
+}
+
+
+
+
+

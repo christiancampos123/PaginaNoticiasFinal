@@ -1,0 +1,33 @@
+<!DOCTYPE htmL>
+<html lang="es">
+    <head>
+        <meta charset="utf-8">
+        <title>Publicidad</title>
+	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        
+		<script>
+            var publis = 1;
+            var interval;
+            $(document).ready(function(){
+				interval = setInterval(muestraP, 3000);    
+            });
+            function muestraP() {
+				if (publis == 3) {
+					publis = 1;
+				} else {
+					publis ++;
+				}
+				$("#addPublim").attr("src", "img/mpubli" + publis + ".jpg");   
+            };
+        </script>
+    </head>
+
+    <body style="background-color:red width:300px height:90px">
+        <div>
+            <a href="anuncioM.html" target="_blank">  
+                <img id="addPublim" src="img/mpubli1.jpg" alt="publicidad"/>
+            </a>
+        </div>
+    </body>
+</html>
