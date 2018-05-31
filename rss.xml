@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+ <title>Yu-Gi-OH</title>
+ <link>https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/PaginaNoticias.html</link>
+ <description>Pagina de noticias sobre Yu-Gi-OH</description>
+ 
+ <item>
+  <title>Datos de Numeraco</title>
+  <link>https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/PrimeraNoticia.html</link>
+  <description><![CDATA[<img src="https://raw.githubusercontent.com/christiancampos123/PaginaNoticiasFinal/master/img/numeraco.png">
+	Pronto sale la nueva carta de tipo monstruo. ¡Y menudo monstruo! Es el momento de ver como tu monstruo se potencia a lo largo de la partida y ver como se vuelve indestructible. Disfrutaremos del poder de Numeraco en los duelos proximamente. 
+	¡Que el corazon de las cartas te acompañe!]]></description>
+  <pubDate>Thu, 17 May 2018 15:56:12 EST</pubDate>
+ </item>
+ 
+ <item>
+  <title>Datos de Hechicero Pintor</title>
+  <link>https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/SegundaNoticia.html</link>
+  <description><![CDATA[<img src="https://raw.githubusercontent.com/christiancampos123/PaginaNoticiasFinal/master/img/pintor2.png"
+	Si, si has leído bien un monstruo de fusión llega a Me-Me-OH. Con un ataque base de 2400 y un efecto implacable, la fusión de dos monstruos no podía salir más rentable. Destroza a tu oponente con "El Pintor" y conquista los campos de batalla. 
+	¡Que el corazón de las cartas te acompañe!>]]></description>
+  <pubDate>Sun, 3 Dec 2017 15:32:12 EST</pubDate>
+ </item>
+</channel>
+
+</rss>
