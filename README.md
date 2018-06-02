@@ -20,4 +20,4 @@ Enlace: https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/PaginaN
   ### Bocetos PC y Móvil
   
   
-(https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/img/boceto1.png)
+![Diseño 1](https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/img/boceto1.png)
