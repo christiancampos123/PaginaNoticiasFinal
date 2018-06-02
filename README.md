@@ -21,3 +21,5 @@ Enlace: https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/PaginaN
   
   
 ![Diseño 1](https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/img/boceto1.png)
+
+![Diseño 2](https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/img/bocetoM.png)
