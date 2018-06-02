@@ -23,3 +23,16 @@ Enlace: https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/PaginaN
 ![Diseño 1](https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/img/boceto1.png)
 
 ![Diseño 2](https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/img/bocetoM.png)
+
+
+##  Cambios realizados respecto al boceto:
+
+Añadido botón para cargar mas noticias.<br><br>
+
+Barra de navegación fija y desplegable en móvil.
+
+
+##Últimas actualizaciones:
+
+Añadido enlace de meta-description.<br>
+Añadido Documentación.
