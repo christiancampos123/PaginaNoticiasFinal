@@ -4,7 +4,7 @@ Enlace: https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/PaginaN
 
 Contenido Principal del proyecto:
 
-  1-  10 noticias sobre el mundo de Yu-Gi-OH.
+  1-  10 noticias sobre el mundo de Yu-Gi-OH.<br>
   2-  Cada noticia con un texto aproximado de 240 caracteres y una imagen sobre la misma.
   3-  Botón de AutoScroll actibable o boton al final para cargar mas noticias (2 paquetes de 3 noticias).
   4-  Las 2 primeras noticias son accesibles mediante clicar en su título, además de mas información incluyen un video                autoajustable.
