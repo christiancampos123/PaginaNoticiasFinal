@@ -17,3 +17,6 @@ Enlace: https://rawgit.com/christiancampos123/PaginaNoticiasFinal/master/PaginaN
   11- Las cargas de mas noticiasa se hacen mediante 2 JSON diferentes.<br><br>
   
   
+  ### Bocetos PC y Móvil
+  
+  
